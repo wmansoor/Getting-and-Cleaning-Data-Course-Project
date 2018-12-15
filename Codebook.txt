@@ -1,0 +1,11 @@
+This codebook describes the variable used in the program.
+
+filename is the variable that shows the zipped file placed on the internet
+fileURL is the link of the data source on the internet
+activityLabels is  the table activityLabels.txt file as in dataset
+features is the table features.txt file as in dataset
+meas_reqd is the variable name for the required measurements, mean and standard deviation
+Load the datasets in descriptive variable called train, trainActivities, trainSubjects
+Load the datasets in descriptive variable called test, testActivities, testSubjects
+allData is the variable that represents dataset after merging test and train variables
+
